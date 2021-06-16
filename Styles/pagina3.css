@@ -1,0 +1,192 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    background-color: #181c21;
+}
+header {
+    background: #1b262c;
+    width: 100%;
+    position: absolute;
+   
+}
+nav {
+    float: right; 
+    
+}
+nav ul {
+    list-style: none;
+    overflow: hidden; 
+}
+nav ul li {
+    float: left;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    
+}
+nav ul li a {
+    display: block; 
+    padding: 20px;
+    color: #fff;
+    text-decoration: none;
+}
+nav ul li:hover {
+    background: #faa21d;
+}
+ a.titulo{
+    font-family: 'Pattaya', sans-serif;
+    color: rgb(231, 227, 227);
+    margin-right: 10%;
+    font-size: 35px;
+}
+    
+
+
+  
+
+
+footer {
+  
+    width: 97.4%;
+    background: #292e34;
+    color: rgb(238, 222, 222);
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 5px -2px 10px rgba(0, 0, 0, 0.542);
+    
+}
+.Redes_Sociales{
+   
+    float: right;
+    
+}
+.Redes_Sociales ul{
+    list-style: none;
+    overflow: hidden; 
+}
+.Redes_Sociales ul li {
+    float: left;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+.Redes_Sociales ul li a {
+    display: block; 
+    padding: 20px;
+    color: #fff;
+    text-decoration: none;
+   
+}
+.Redes_Sociales ul li:hover{
+    background: #faa21d;
+}
+.imagen1 img{
+    width: 100%;
+}
+.imagen1{
+    
+ position: relative;
+    width: 700px;
+    height: 450px;
+    left: 300px;
+       
+    top: 80px;
+    margin-bottom: 20%;
+        
+}
+.texto hgroup{
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.parrafos{
+    margin-left: 10px;
+}
+.parrafos p{
+    color: rgb(236, 236, 236);
+    font-size: 25px;
+    right: 5px;
+  
+}
+.parrafos{
+    color: #fff;
+    column-count: 3;
+}
+.imagen2 img{
+    width: 98.9%;
+ position: relative;
+ left: 5px;
+       
+top: 40px;
+    margin-bottom: 95px;
+}
+.texto2 hgroup{
+    text-align: center;
+    font-size: 25px;
+ margin-top: 5px;
+color: #fff;
+ margin-bottom: 10px;
+}
+
+.figura1{
+    margin-left: 10px;
+    width: 650px; 
+     height: 280px; 
+     background: #354150;;
+}
+
+
+ .car1 {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    left: 300px;
+       
+    top: -50px;
+   
+   
+} 
+ .figura1 p{
+     position: relative;
+    top: 55PX;
+    
+     margin-left: 15px;
+    text-align: justify;
+    color: #fff;
+    font-size: 15px;
+}
+.figura2{
+    position: relative;
+    width: 650px; 
+    height: 280px; 
+    
+    bottom: 280px;
+    margin-left: 680px ;
+     
+    background: #354150;;
+}
+
+
+ .car2 {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    left: 330px;
+       
+    top: -40px;
+   
+   
+} 
+ .figura2 p{
+     position: relative;
+    top: 55PX;
+    margin-left: 15px;
+    text-align: justify;
+    color: #fff;
+    font-size: 15px;
+}
+
